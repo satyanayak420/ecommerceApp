@@ -1,0 +1,1 @@
+Small project will help me get better understanding of javascript
